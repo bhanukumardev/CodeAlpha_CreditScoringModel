@@ -25,4 +25,4 @@ This repository contains my credit scoring model project for the Code Alpha Inte
 
 ## Video Demonstration
 ## LinkedIn Submission
-[Link to be uploaded soon...]
+https://www.linkedin.com/posts/bhanu-kumar-dev-97b820313_machinelearning-creditscoring-datascience-activity-7335941965395492865-vW-f?utm_source=share&utm_medium=member_android&rcm=ACoAAE-td28BKSK7mi1hQgrYDtXPTq_qe8XRr18
