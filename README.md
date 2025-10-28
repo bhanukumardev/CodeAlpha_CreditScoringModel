@@ -36,6 +36,7 @@ Built as part of **Code Alpha Data Science Internship**.
 ## 📊 Dataset
 
 **UCI German Credit Data**
+
 - **Source:** UCI Machine Learning Repository
 - **Samples:** 1000 credit applications
 - **Features:** 20 attributes (age, job, credit history, savings, etc.)
@@ -44,6 +45,7 @@ Built as part of **Code Alpha Data Science Internship**.
 ## 🛠️ Tech Stack
 
 ### Machine Learning
+
 - **Python 3.8+**
 - **Scikit-learn** - ML algorithms and evaluation
 - **Pandas** - Data manipulation
@@ -51,6 +53,7 @@ Built as part of **Code Alpha Data Science Internship**.
 - **Matplotlib & Seaborn** - Visualization
 
 ### Tools
+
 - **Jupyter Notebook** - Interactive development
 - **Pickle** - Model serialization
 - **HTML Slides** - Presentation export
@@ -58,6 +61,7 @@ Built as part of **Code Alpha Data Science Internship**.
 ## 📦 Installation & Setup
 
 ### Prerequisites
+
 - Python 3.8 or higher
 - Jupyter Notebook
 - Git
@@ -120,17 +124,18 @@ print(f"Probability of Good Credit: {proba[0][1]:.2%}")
 
 ```
 CodeAlpha_CreditScoringModel/
-├── CodeAlpha_CreditScoringModel.ipynb    # Main notebook
-├── german.data                           # UCI German Credit Dataset
-├── credit_scoring_rf_model.pkl           # Trained Random Forest model
-├── CodeAlpha_CreditScoringModel.slides.html  # Presentation slides
-├── requirements.txt                      # Python dependencies
-└── README.md                             # Project documentation
+├── CodeAlpha_CreditScoringModel.ipynb       # Main notebook
+├── german.data                              # UCI German Credit Dataset
+├── credit_scoring_rf_model.pkl             # Trained Random Forest model
+├── CodeAlpha_CreditScoringModel.slides.html # Presentation slides
+├── requirements.txt                         # Python dependencies
+└── README.md                                # Project documentation
 ```
 
 ## 📊 Model Performance
 
 ### Random Forest Classifier (Best Model)
+
 - **Accuracy:** 75%+
 - **ROC-AUC Score:** 0.78
 - **Precision:** 0.77
@@ -138,6 +143,7 @@ CodeAlpha_CreditScoringModel/
 - **F1-Score:** 0.75
 
 ### Logistic Regression
+
 - **Accuracy:** 72%
 - **ROC-AUC Score:** 0.74
 - **Precision:** 0.74
@@ -147,6 +153,7 @@ CodeAlpha_CreditScoringModel/
 ## 🔍 Key Insights
 
 **Top 5 Most Important Features:**
+
 1. **Credit History** - Past payment behavior
 2. **Account Balance** - Current financial status
 3. **Loan Duration** - Length of credit request
@@ -164,30 +171,35 @@ CodeAlpha_CreditScoringModel/
 ## 📚 Project Overview
 
 ### 1. Data Exploration
+
 - Loaded UCI German Credit Data
 - Performed exploratory data analysis (EDA)
 - Visualized feature distributions
 - Identified correlations
 
 ### 2. Data Preprocessing
+
 - Handled missing values
 - Encoded categorical variables
 - Scaled numerical features
 - Split into training and testing sets
 
 ### 3. Model Training
+
 - Implemented Logistic Regression
 - Built Random Forest classifier
 - Tuned hyperparameters
 - Cross-validation for robustness
 
 ### 4. Evaluation
+
 - Calculated precision, recall, F1-score
 - Generated ROC curves
 - Analyzed confusion matrices
 - Interpreted feature importance
 
 ### 5. Deployment
+
 - Serialized best model (Random Forest)
 - Created presentation slides
 - Documented findings and recommendations
@@ -209,6 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Bhanu Kumar Dev**
+
 - 🎓 3rd Year CSSE @ KIIT University
 - 👨‍💻 Code Alpha Intern | Data Science & ML
 - 📧 Email: kumarbhanu818@gmail.com
@@ -233,10 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <b>⭐ Star this repo if you find it helpful!</b>
-  <br>
-  <i>Empowering financial decisions with ML</i>
-  <br>
-  Made with ❤️ by Bhanu Kumar Dev | Code Alpha Internship
-</div>
+⭐ **Star this repo if you find it helpful!**
+
+*Empowering financial decisions with ML*
+
+**Made with ❤️ by Bhanu Kumar Dev | Code Alpha Internship**
