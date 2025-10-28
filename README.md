@@ -1,17 +1,12 @@
 # 💳 CodeAlpha Credit Scoring Model
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/bhanukumardev/CodeAlpha_CreditScoringModel)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![Stars](https://img.shields.io/github/stars/bhanukumardev/CodeAlpha_CreditScoringModel?style=social)](https://github.com/bhanukumardev/CodeAlpha_CreditScoringModel/stargazers)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/bhanukumardev/CodeAlpha_CreditScoringModel) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![Stars](https://img.shields.io/github/stars/bhanukumardev/CodeAlpha_CreditScoringModel?style=social)](https://github.com/bhanukumardev/CodeAlpha_CreditScoringModel/stargazers)
 
 > Credit Scoring Model project for Code Alpha Internship — ML-powered credit risk assessment using German Credit Data.
 
 ## 📹 Demo
 
-**[📊 View Slides Presentation →](CodeAlpha_CreditScoringModel.slides.html)**
+**[📊 View LinkedIn Post →](https://www.linkedin.com/posts/bhanu-kumar-dev-97b820313_machinelearning-creditscoring-datascience-activity-7335941965395492865-vW-f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-td28BKSK7mi1hQgrYDtXPTq_qe8XRr18)**
 
 ## 🚀 Overview
 
@@ -124,12 +119,12 @@ print(f"Probability of Good Credit: {proba[0][1]:.2%}")
 
 ```
 CodeAlpha_CreditScoringModel/
-├── CodeAlpha_CreditScoringModel.ipynb       # Main notebook
-├── german.data                              # UCI German Credit Dataset
-├── credit_scoring_rf_model.pkl             # Trained Random Forest model
-├── CodeAlpha_CreditScoringModel.slides.html # Presentation slides
-├── requirements.txt                         # Python dependencies
-└── README.md                                # Project documentation
+├── CodeAlpha_CreditScoringModel.ipynb    # Main notebook
+├── german.data                           # UCI German Credit Dataset
+├── credit_scoring_rf_model.pkl           # Trained Random Forest model
+├── CodeAlpha_CreditScoringModel.slides.html  # Presentation slides
+├── requirements.txt                      # Python dependencies
+└── README.md                             # Project documentation
 ```
 
 ## 📊 Model Performance
